@@ -1,3 +1,0 @@
-This is my first git file.
-Insert 1 line.
-Insert 1 line.
